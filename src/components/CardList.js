@@ -2,6 +2,9 @@ import React from 'react';
 import Card from './Card.js';
 
 const CardList = ({ robots }) => {
+    // if (true) {
+    //     throw new Error('NOOOOO!!!');
+    // } //to check functioning of ErrorBoundry component
     return(
         <div>
             { 
