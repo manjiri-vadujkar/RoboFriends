@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Quick View
-To get a quick view open the link in the github description. 
+To get a quick view open the link 
+https://manjiri-vadujkar.github.io/RoboFriends/
 
 ## Available Scripts
 
